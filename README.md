@@ -1,4 +1,4 @@
-# JBNU_CED
+# jbnu-ced
 
 2018년. 1학년 2학기. Creative Engineering Design. 창의적공학설계.
 
